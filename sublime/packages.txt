@@ -1,0 +1,6 @@
+# Enable package control
+https://sublime.wbond.net/installation#st2
+
+modific
+FileDiffs
+JSLint

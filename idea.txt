@@ -1,0 +1,27 @@
+Appearance & Behavior
+    System Settings
+        Startup/Shutdown
+            Reopen last project on startup: no
+Editor
+    General
+        Other
+            Ensure line feed at file end on Save: yes
+        Smart Keys
+            Use "CamelHumps" words: yes
+            Surround selection on typing quote or brace: yes
+        Appearance
+            Show line numbers: yes
+    Colors & Fonts
+        Scheme: Save As: Darcula copy
+        Font: Editor Font: Size: 14
+    Code Style
+        Line separator: \n
+    Inspections
+        Spelling
+            Typo: off
+    File Encodings
+        Project Encoding: UTF-8
+        Default encoding for properties files: UTF-8
+Tools
+    SSH Terminal
+        Default Encoding: UTF-8
